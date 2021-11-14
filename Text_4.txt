@@ -1,0 +1,1 @@
+This metric evaluates the ontology structure such as number of Root Nodes.
