@@ -1,0 +1,4 @@
+##########
+Text_2.txt
+##########
+Trees are planted along a road.
